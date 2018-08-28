@@ -1,0 +1,1 @@
+This is Emmett's first git project!
